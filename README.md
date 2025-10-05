@@ -61,7 +61,7 @@ sviluppatore C-D: assegnato al menù bevande
       <img src="CocaCola.jpg" alt="CocaCola">
       <div>
         <h3>CocaCola 33cl <span>€2.50</span></h3>
-        <p>Bevanda analcolica</p>
+        <p><em>Bevanda analcolica</em></p>
       </div>
     </div>
     <div>
