@@ -53,42 +53,42 @@ sviluppatore C-D: assegnato al menù bevande
     <div>
       <img src="Acqua.jpg" alt="Acqua Naturale">
       <div>
-        <h3>Acqua Naturale 1 L<span>€2.00</span></h3>
+        <h3>Acqua Naturale 1L <span>€2.00</span></h3>
         <p>E' importante rimanere idratati</p>
       </div>
     </div>
     <div>
       <img src="CocaCola.jpg" alt="CocaCola">
       <div>
-        <h3>CocaCola 33cl<span>€2.50</span></h3>
+        <h3>CocaCola 33cl <span>€2.50</span></h3>
         <p>Bevanda analcolica</p>
       </div>
     </div>
     <div>
       <img src="CocaCola Zero.jpg" alt="CocaCola Zero">
       <div>
-        <h3>CocaCola 0 33cl<span>€2.50</span></h3>
+        <h3>CocaCola 0 33cl <span>€2.50</span></h3>
         <p>Bevanda analcolica senza zuccheri</p>
       </div>
     </div>
     <div>
       <img src="Fanta.jpg" alt="Fanta">
       <div>
-        <h3>Fanta 33cl<span>€2.50</span></h3>
+        <h3>Fanta 33cl <span>€2.50</span></h3>
         <p>Bevanda analcolica all'arancia</p>
       </div>
     </div>
     <div>
       <img src="The Pesca.jpg" alt="The alla Pesca">
       <div>
-        <h3>The alla Pesca 33cl<span>€2.50</span></h3>
+        <h3>The alla Pesca 33cl <span>€2.50</span></h3>
         <p>Bevanda analcolica alla Pesca</p>
       </div>
     </div>
     <div>
       <img src="The Limone.jpg" alt="The al Limone">
       <div>
-        <h3>The al Limone 33cl<span>€2.00</span></h3>
+        <h3>The al Limone 33cl <span>€2.00</span></h3>
         <p>Bevanda analcolica al Limone</p>
       </div>
     </div>
