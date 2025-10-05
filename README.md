@@ -31,14 +31,14 @@ sviluppatore C-D: assegnato al menù bevande
       <img src="pizza.jpg" alt="Margherita">
       <div>
         <h3>Pizza Margherita <span>€5.00</span></h3>
-        <p>Pomodoro, mozzarella e basilico fresco.</p>
+        <p><i>Pomodoro, mozzarella e basilico fresco.</i></p>
       </div>
     </div>
     <div>
       <img src="pizza_diavola.jpg" alt="Diavola">
       <div>
         <h3>Pizza Diavola <span>€7.00</span></h3>
-        <p>Pomodoro, mozzarella e salame piccante.</p>
+        <p><i>Pomodoro, mozzarella e salame piccante.</i></p>
       </div>
     </div>
   </div>
@@ -61,35 +61,35 @@ sviluppatore C-D: assegnato al menù bevande
       <img src="CocaCola.jpg" alt="CocaCola">
       <div>
         <h3>CocaCola 33cl <span>€2.50</span></h3>
-        <p><em>Bevanda analcolica</em></p>
+        <p><i>Bevanda analcolica</i></p>
       </div>
     </div>
     <div>
       <img src="CocaCola Zero.jpg" alt="CocaCola Zero">
       <div>
         <h3>CocaCola 0 33cl <span>€2.50</span></h3>
-        <p>Bevanda analcolica senza zuccheri</p>
+        <p><i>Bevanda analcolica senza zuccheri</i></p>
       </div>
     </div>
     <div>
       <img src="Fanta.jpg" alt="Fanta">
       <div>
         <h3>Fanta 33cl <span>€2.50</span></h3>
-        <p>Bevanda analcolica all'arancia</p>
+        <p><i>Bevanda analcolica all'arancia</i></p>
       </div>
     </div>
     <div>
       <img src="The Pesca.jpg" alt="The alla Pesca">
       <div>
         <h3>The alla Pesca 33cl <span>€2.50</span></h3>
-        <p>Bevanda analcolica alla Pesca</p>
+        <p><i>Bevanda analcolica alla Pesca</i></p>
       </div>
     </div>
     <div>
       <img src="The Limone.jpg" alt="The al Limone">
       <div>
         <h3>The al Limone 33cl <span>€2.00</span></h3>
-        <p>Bevanda analcolica al Limone</p>
+        <p><i>Bevanda analcolica al Limone</i></p>
       </div>
     </div>
   </div>
