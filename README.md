@@ -54,7 +54,7 @@ sviluppatore C-D: assegnato al menù bevande
       <img src="Acqua.jpg" alt="Acqua Naturale">
       <div>
         <h3>Acqua Naturale 1L <span>€2.00</span></h3>
-        <p>E' importante rimanere idratati</p>
+        <p><i>E' importante rimanere idratati</i></p>
       </div>
     </div>
     <div>
